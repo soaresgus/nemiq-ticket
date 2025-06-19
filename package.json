@@ -1,0 +1,31 @@
+{
+  "name": "nemiq-ticket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soaresgus/nemiq-ticket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/soaresgus/nemiq-ticket/issues"
+  },
+  "homepage": "https://github.com/soaresgus/nemiq-ticket#readme",
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "eslint": "^9.29.0",
+    "prettier": "^3.5.3",
+    "prettier-eslint": "^16.4.2"
+  }
+}
